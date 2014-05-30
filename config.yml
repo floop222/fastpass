@@ -1,0 +1,14 @@
+ticketName: Ticket
+machineCooldown: 1
+returnCooldown: 1
+messages:
+   noMoney: You do not have enough money!
+   hasTicket: You already have a ticket!
+   hasCooldown: You still have a cool down!
+   getMoney: money has been taken from your account!
+   rideText: Enjoy the ride!
+   wrongTicket: That’s the wrong ticket!
+   noCreatePermission: You aren’t allowed to create that sign!
+   noUsePermission: You aren’t allowed to use that sign!
+   noCommandPermission: You don’t have permission to do that command!
+   invalidSign: That sign is invalid!

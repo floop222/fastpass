@@ -1,0 +1,9 @@
+name: Fastpass
+main: fastpass.Fastpass
+depens: Vault
+version: 1.0
+
+commands:
+   fp:
+      description: Fastpass command
+      usage: 
